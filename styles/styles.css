@@ -5,11 +5,14 @@ h2 {
     color:darkblue;
 }
 p {
-    color:red;
+    color:blue;
 }
 h3 {
     color:crimson;
 }
 li {
     color:brown;
+}
+body {
+    background-color: cornflowerblue;
 }
