@@ -1,3 +1,15 @@
 h1 {
-    color: red;
+    color: green;
+}
+h2 {
+    color:darkblue;
+}
+p {
+    color:red;
+}
+h3 {
+    color:crimson;
+}
+li {
+    color:brown;
 }
