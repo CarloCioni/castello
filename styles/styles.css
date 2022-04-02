@@ -1,11 +1,11 @@
 h1 {
-    color: green;
+    color: rgb(85, 13, 220);
 }
 h2 {
-    color:darkblue;
+    color:rgb(128, 8, 241);
 }
 p {
-    color:blue;
+    color:rgb(53, 53, 53);
 }
 h3 {
     color:crimson;
@@ -14,5 +14,17 @@ li {
     color:brown;
 }
 body {
-    background-color: cornflowerblue;
+    background-color: white;
+}
+
+.image-holder {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 200px;
 }
