@@ -18,13 +18,35 @@ body {
 }
 
 .image-holder {
-    background-color: aqua;
+    background-color: rgb(19, 188, 194);
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 50px;
     flex-wrap: wrap;
 }
 
 img {
     width: 200px;
 }
+.image-holder2 {
+    background-color: rgb(23, 199, 67);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    border: 10px;
+}
+img {
+    width: 200px;
+}
+
+.image-holder3 {
+    background-color: rgb(170, 67, 8);
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+   }
+   img {
+       width: 200px;
+   }
