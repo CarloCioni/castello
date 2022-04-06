@@ -41,7 +41,7 @@ img {
 }
 
 .image-holder3 {
-    background-color: rgb(170, 67, 8);
+    background-color: rgb(170, 8, 84);
     display: flex;
     align-items: center;
     gap: 50px;
@@ -51,5 +51,9 @@ img {
        width: 200px;
    }
    .highlight {
-    background-color: yellow;
+    background-color: rgb(36, 230, 100);
+  }
+  .image-holder4 {
+      background-color: rgb(161, 28, 28);
+     
   }
